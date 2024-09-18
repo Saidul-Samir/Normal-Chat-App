@@ -1,4 +1,4 @@
 # Normal-Chat-App
 A basic Chating App.
 <br>
-Author - Saidul
+Author - Saidul Islam Samir
