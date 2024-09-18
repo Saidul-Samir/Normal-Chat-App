@@ -1,3 +1,4 @@
 # Normal-Chat-App
-A basic Chating App
+A basic Chating App.
+<br>
 Author - Saidul
